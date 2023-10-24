@@ -6,7 +6,7 @@ Full Stack JS Developer
 
 * 🌍  I'm based in Tunis
 * ✉️  You can contact me at [saifayari312@gmail.com](mailto:saifayari312@gmail.com)
-* 🤝  I'm open to collaborating on I'm open to collaborating on exciting projects as a frontend developer
+* 🤝  I'm open to collaborating on exciting projects as a frontend developer
 
 ### Skills
 
