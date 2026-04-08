@@ -1,12 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saif Ayari
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Saif Ayari
 ==================================================================================================================================
 
-Full Stack JS Developer
+🚀 Full Stack JavaScript Developer
+
+I'm a passionate developer based in Tunis 🇹🇳, focused on building modern, scalable, and user-friendly web applications. I enjoy turning ideas into real-world products using clean and efficient code.
 -----------------------
 
-* 🌍  I'm based in Tunis
-* ✉️  You can contact me at [saifayari312@gmail.com](mailto:saifayari312@gmail.com)
-* 🤝  I'm open to collaborating on exciting projects as a frontend developer
+💫 About Me
+🌍 Based in Tunis, Tunisia
+✉️ Reach me at: saifayari312@gmail.com
+🤝 Open to Frontend / Full Stack collaboration
+⚡ I love working with modern JS frameworks and clean UI/UX
 
 ### Skills
 
@@ -19,3 +23,7 @@ Full Stack JS Developer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Saif-Ayari" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/saif-ayari-05459825b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+✨ Fun Fact
+
+I enjoy building clean interfaces and bringing ideas to life through code.
