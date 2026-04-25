@@ -20,7 +20,7 @@ I'm a passionate developer based in Tunis 🇹🇳, focused on building modern, 
 ### Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,git,html,css,bootstrap,tailwind,react,vite,nodejs,express,mongodb,mysql,figma" />
+  <img src="https://skillicons.dev/icons?i=js,git,html,css,bootstrap,tailwind,react,next,vite,nodejs,express,mongodb,mysql,figma" />
 </p>
 
 ---
